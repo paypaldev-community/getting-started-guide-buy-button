@@ -1,7 +1,8 @@
 # PayPal Buy Button example
 
+<!--
+Fork [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eddiejaoude/paypal-buy-button/fork)
+CodeSpaces [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/eddiejaoude/paypal-buy-button)
+-->
 
-1. Fork [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eddiejaoude/paypal-buy-button/fork)
-2. CodeSpaces [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/eddiejaoude/paypal-buy-button)
-3. Deploy [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Feddiejaoude%2Fpaypal-buy-button)
-4. Deploy with your PayPal credentials [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://developer.paypal.com)
+- 1-click deploy [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Feddiejaoude%2Fpaypal-buy-button)
