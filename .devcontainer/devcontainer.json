@@ -10,6 +10,11 @@
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [8080],
+	"portsAttributes": {
+		"3000": {
+			"onAutoForward": "notify"
+		}
+	},
 
 	// Use 'postCreateCommand' to run commands after the container is created.
 	"postCreateCommand": "npx -y http-server ."
