@@ -1,6 +1,6 @@
 # Getting Started Guide: PayPal Buy Button example
 
-Try it out now in GitHub Codespaces... [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/eddiejaoude/paypal-buy-button)
+Try it out now in GitHub Codespaces... [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/paypaldev-community/getting-started-guide-buy-button)
 
 ## Preview
 
