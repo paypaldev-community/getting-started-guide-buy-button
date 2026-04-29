@@ -1,12 +1,14 @@
-# Getting Started Guide: PayPal Buy Button example
+# Getting Started Guide: PayPal Buy Button
 
-Try it out now in GitHub Codespaces... [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/paypaldev-community/getting-started-guide-buy-button)
+With PayPal's Buy Button accept payments without building your own payment workflow.
+
+Open the code in the web IDE now using GitHub Codespaces... [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/paypaldev-community/getting-started-guide-buy-button)
 
 ## Preview
 
 ![PayPal Buy Button example](assets/preview.png)
 
-## Explaination
+## Explanation
 
 ### Step 1
 
