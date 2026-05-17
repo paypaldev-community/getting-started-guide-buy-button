@@ -2,7 +2,7 @@
 
 With PayPal's Buy Button accept payments without building your own payment workflow.
 
-Open the code in the web IDE now using GitHub Codespaces... [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/paypaldev-community/getting-started-guide-buy-button)
+Open the code in the web IDE now using GitHub Codespaces... [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/paypaldev/getting-started-guide-buy-button)
 
 ## Preview
 
